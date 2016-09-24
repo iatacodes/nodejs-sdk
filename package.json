@@ -1,8 +1,11 @@
 {
-  "name": "nodejs-sdk",
-  "version": "1.0.0",
+  "name": "iatacodes",
+  "version": "7.0.0",
   "description": "NodeJS Library for https://iatacodes.org/ API",
   "main": "index.js",
+  "engines": {
+    "node": ">= 6.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +17,8 @@
     "iata",
     "icao",
     "codes",
+    "aviation",
+    "avia",
     "database",
     "airports",
     "airlines",
@@ -23,8 +28,8 @@
     "routes",
     "timezones"
   ],
-  "author": "IataCodes.Org",
-  "license": "ISC",
+  "author": "IataCodes.Org <info@iatacodes.org> (http://iatacodes.org/)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/iatacodes/nodejs-sdk/issues"
   },
