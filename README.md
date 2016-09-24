@@ -5,7 +5,7 @@ NodeJS Library for https://iatacodes.org/
 
 ## Installation
 
-  $ npm install iatacodes
+    $ npm install iatacodes
   
 ## Documentation
   https://iatacodes.org/
