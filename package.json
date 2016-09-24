@@ -1,6 +1,6 @@
 {
   "name": "iatacodes",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "NodeJS Library for https://iatacodes.org/ API",
   "main": "index.js",
   "engines": {
