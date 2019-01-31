@@ -4,7 +4,7 @@ const _ = require('lodash');
 class IC {
     constructor(api_key = 'YOUR-API-KEY', version = 6) {
         this.api_key = api_key;
-        this.url = `https://iatacodes.org/api/v${version}/`;
+        this.url = `http://iatacodes.org/api/v${version}/`;
     }
     api(method='ping', params={}, callback) {
         request.post({
