@@ -1,6 +1,6 @@
 # nodejs-sdk
 
-NodeJS Library for https://iatacodes.org/
+NodeJS Library for https://airlabs.co/
 
 
 ## Installation
@@ -8,7 +8,7 @@ NodeJS Library for https://iatacodes.org/
     $ npm install iatacodes
   
 ## Documentation
-  https://iatacodes.org/
+  https://airlabs.co
 
 ## Examples
 ```javascript
